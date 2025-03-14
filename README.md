@@ -1,9 +1,9 @@
 <h1>Tenable Nessus - Vulnerability Management on Windows</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [YouTube Demonstration](_________________)
 
 <h2>Description</h2>
-I will be showing you how to install Nessus on an M1 Macbook running Kali Linux on a Virtual Machine. We will also change the configurations of the update plugin and component frequency to daily, ensuring the VM ports are open and firewalls are disabled, and credential vs non credential scans.
+I will be showing you how to use Nessus on Azure with on a Windows 11 computer running a Virtual Machine. We will also change the configurations of the update plugin and component frequency to daily, ensuring the VM ports are open and firewalls are disabled, and credential vs non credential scans.
 <br />
 
 
